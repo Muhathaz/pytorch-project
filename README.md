@@ -13,7 +13,7 @@ A Text generation model using PyTorch and LSTM/RNN architectures.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Muhathaz/pytorch-project.git
 cd text-generation
 ```
 
